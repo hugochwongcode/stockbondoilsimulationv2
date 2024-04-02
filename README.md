@@ -55,7 +55,7 @@ Special thanks to Will Edwards, instructor at Cantek IT Program, for his invalua
 ## Contact
 For any inquiries or assistance, feel free to reach out:
 Email: hugochwong123@gmail.com
-LinkedIn: linkedin.com/in/hugochw/
+LinkedIn: https://www.linkedin.com/in/hugochw/
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). It allows users to do almost anything they want with the code, including modifying, distributing, and using it for commercial purposes, as long as they include the original copyright and license notice.
